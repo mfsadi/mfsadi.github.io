@@ -8,14 +8,14 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Majid Fahandezi Sadi
   avatar: bio-photo.jpg
-  bio: "A brief description of me."
+  bio: "An NLP Researcher"
   email: mfsadi@znu.ac.ir
   # Do not include the @ symbol in your Twitter username
   twitter: #username
-  linkedin: https://www.linkedin.com/in/mfsadi/
-  github: https://github.com/mfsadi
+  linkedin: mfsadi
+  github: mfsadi
   orcid: # ID Number (ex. 0000-0000-0000-0000)
-  researchgate: https://www.researchgate.net/profile/Majid_F_Sadi
+  researchgate: Majid_F_Sadi
   mendeley: #username
   google:
     plus: #username
