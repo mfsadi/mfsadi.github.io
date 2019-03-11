@@ -7,12 +7,12 @@ __MS__	University of Zanjan, Computer Engineering - Software		        `June 2018
 
 	Thesis: “Word Sense Disambiguation in Vector Space Models”, Score: 19.5/20
 	Advisor: Dr. Mohsen Afsharchi and Dr. Ebrahim Ansari
-        Cumulative Average Score: 17.78 GPA: 3.89/4
+    Cumulative Average Score: 17.78 GPA: 3.89/4
 
 __BS__	Islamic Azad University, Marvdasht Branch, Computer Engineering	        `July 2013`
 
 	Thesis: “Design and Implementation of an Android Dictionary”
-        Cumulative Average Score: 15.47 GPA: 3.11/4
+    Cumulative Average Score: 15.47 GPA: 3.11/4
 
 ## HONORS AND AWARDS
 
@@ -34,13 +34,14 @@ __Instructor__, Computer Laboratory (B. Sc.), University of Zanjan, Fall 2018 (3
 
 __Journal Papers in Review__
 Sadi, F. M., Ansari, E. and Afsharchi, M. “Word Sense Disambiguation Using New Features Based on Word Embeddings,” 
+
 `Journal of Intelligent and Fuzzy Systems.`
 
 ## PRESENTATIONS AND INVITED LECTURES
 
-__Deep NLP workshop__, “Deep WSD”, Amirkabir University of Technology, 		'11/22/2017'
+__Deep NLP workshop__, “Deep WSD”, Amirkabir University of Technology, 		`11/22/2017`
 
-__Academic Lecture__ (Open Talk), “Introduction to natural Language Processing”, University of Zanjan, '12/25/2017'
+__Academic Lecture__ (Open Talk), “Introduction to natural Language Processing”, University of Zanjan, `12/25/2017`
 
 ## LANGUAGES
 
