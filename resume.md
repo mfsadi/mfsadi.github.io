@@ -74,18 +74,27 @@ __Sports__: Football, Swimming, Mountain Climbing, Taekwondo
 ## REFERENCES
 
 __Dr. Mohsen Afsharchi__, Associate Professor
+
 Computer Engineering Department
+
 University of Zanjan
+
 Email: afsharchim@znu.ac.ir
 
 __Dr. Ebrahim Ansari__, Assistant Professor
+
 Computer Engineering Department
+
 Institute for Advances Studies in Basic Sciences
+
 Email: eansari@iasbs.ac.ir
 
 __Dr. Leila Safari__, Assistant Professor
+
 Computer Engineering Department
+
 University of Zanjan
+
 Email: lsafari@znu.ac.ir
 
 
